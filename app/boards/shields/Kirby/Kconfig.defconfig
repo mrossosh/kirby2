@@ -1,0 +1,8 @@
+if SHIELD_KIRBY
+
+config ZMK_KEYBOARD_NAME
+    default "KIRBY"
+
+
+
+endif
